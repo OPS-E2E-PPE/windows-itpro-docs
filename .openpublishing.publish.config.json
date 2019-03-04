@@ -1,4 +1,5 @@
 {
+  "build_entry_point": "",
   "docsets_to_publish": [
     {
       "docset_name": "bcs-VSTS-ppe",
@@ -7,7 +8,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -22,7 +23,6 @@
       "build_output_subfolder": "education-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -30,7 +30,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "eula-vsts-ppe",
@@ -39,7 +41,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -55,7 +57,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -70,7 +72,6 @@
       "build_output_subfolder": "internet-explorer-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -78,7 +79,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "itpro-hololens-VSTS-ppe",
@@ -86,7 +89,6 @@
       "build_output_subfolder": "itpro-hololens-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -94,7 +96,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "keep-secure-VSTS-ppe",
@@ -102,7 +106,6 @@
       "build_output_subfolder": "keep-secure-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -110,7 +113,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "known-issues-ppe",
@@ -119,7 +124,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -134,7 +139,6 @@
       "build_output_subfolder": "mdop-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -142,7 +146,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "microsoft-edge-VSTS-ppe",
@@ -150,7 +156,6 @@
       "build_output_subfolder": "microsoft-edge-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -158,7 +163,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "privacy-ppe",
@@ -187,7 +194,8 @@
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
-        "RestApi": "Content"
+        "RestApi": "Content",
+        "LandingData": "Content"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
@@ -198,7 +206,6 @@
       "build_output_subfolder": "smb-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -206,7 +213,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "store-for-business-VSTS-ppe",
@@ -214,7 +223,6 @@
       "build_output_subfolder": "store-for-business-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -222,7 +230,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "surface-hub-VSTS-ppe",
@@ -230,7 +240,6 @@
       "build_output_subfolder": "surface-hub-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -238,7 +247,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "surface-VSTS-ppe",
@@ -246,7 +257,6 @@
       "build_output_subfolder": "surface-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -254,7 +264,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "win-access-protection-VSTS-ppe",
@@ -262,7 +274,6 @@
       "build_output_subfolder": "win-access-protection-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -270,7 +281,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "win-app-management-VSTS-ppe",
@@ -278,7 +291,6 @@
       "build_output_subfolder": "win-app-management-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -286,7 +298,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "win-client-management-VSTS-ppe",
@@ -294,7 +308,6 @@
       "build_output_subfolder": "win-client-management-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -302,7 +315,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "win-configuration-VSTS-ppe",
@@ -310,7 +325,6 @@
       "build_output_subfolder": "win-configuration-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -318,7 +332,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "win-development-VSTS-ppe",
@@ -326,7 +342,6 @@
       "build_output_subfolder": "win-development-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -334,7 +349,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "win-device-security-VSTS-ppe",
@@ -342,7 +359,6 @@
       "build_output_subfolder": "win-device-security-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -350,7 +366,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "windows-configure-VSTS-ppe",
@@ -358,7 +376,6 @@
       "build_output_subfolder": "windows-configure-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -366,7 +383,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "windows-deploy-VSTS-ppe",
@@ -374,7 +393,6 @@
       "build_output_subfolder": "windows-deploy-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -382,7 +400,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "windows-hub-VSTS-ppe",
@@ -390,7 +410,6 @@
       "build_output_subfolder": "windows-hub-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -398,7 +417,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "windows-manage-VSTS-ppe",
@@ -406,7 +427,6 @@
       "build_output_subfolder": "windows-manage-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -414,7 +434,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "windows-plan-VSTS-ppe",
@@ -422,7 +444,6 @@
       "build_output_subfolder": "windows-plan-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -430,7 +451,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "windows-update-VSTS-ppe",
@@ -438,7 +461,6 @@
       "build_output_subfolder": "windows-update-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -446,7 +468,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "win-threat-protection-VSTS-ppe",
@@ -454,7 +478,6 @@
       "build_output_subfolder": "win-threat-protection-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -462,7 +485,9 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "win-whats-new-VSTS-ppe",
@@ -470,7 +495,6 @@
       "build_output_subfolder": "win-whats-new-VSTS-ppe",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -478,18 +502,29 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     }
   ],
-  "notification_subscribers": [],
-  "sync_notification_subscribers": [],
-  "branches_to_filter": [],
+  "notification_subscribers": [
+    "elizapo@microsoft.com"
+  ],
+  "branches_to_filter": [
+    ""
+  ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/windows-itpro-docs",
   "git_repository_branch_open_to_public_contributors": "master",
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": false,
-  "contribution_branch_mappings": {},
+  "need_preview_pull_request": true,
+  "resolve_user_profile_using_github": true,
   "dependent_repositories": [
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
+    },
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
@@ -497,11 +532,26 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ],
+    "master": [
+      "Publish",
+      "Pdf"
+    ],
+    "atp-api-danm": [
+      "Publish",
+      "Pdf"
+    ]
+  },
+  "need_generate_pdf_url_template": true,
   "targets": {
     "Pdf": {
       "template_folder": "_themes.pdf"
     }
-  }
+  },
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
